@@ -1,39 +1,44 @@
 # icalc 🧮 Simple Calculator
-This is a basic calculator web app built with HTML, CSS, and JavaScript. It allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division.
+A clean and responsive Calculator Web App built with HTML, CSS, and JavaScript.
+This project demonstrates basic DOM manipulation and JavaScript functions to handle arithmetic operations.
 
-🚀 Features
-✅ Addition, subtraction, multiplication, division
 
-✅ Decimal point support
+✨ Features
+➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
 
-✅ Clear button to reset input
+🔢 Number and decimal input support
 
-✅ Error handling for invalid expressions
+🧹 Clear button to reset the display
 
-🛠️ Technologies Used
-HTML – Structure of the calculator
+⚡ Real-time calculation using eval() with error handling
 
-CSS – Styling of buttons and display
+📱 Lightweight and responsive design
 
-JavaScript – Logic for calculation and display
+🛠️ Tech Stack
+HTML – Structure
+
+CSS – Styling and layout
+
+JavaScript – Core calculator logic
 
 📂 Project Structure
-bash
-Copy
-Edit
+
+
 calculator/
-│── index.html      # Main calculator layout
-│── style.css       # Calculator styling
-│── script.js       # Functionality and button actions
-▶️ Usage
-Open index.html in a browser.
+├── index.html      # UI layout and buttons
+├── style.css       # Styling for calculator
+└── script.js       # Button actions and calculations
 
-Click buttons to enter numbers and operators.
 
-Press = to calculate the result.
+🚀 Live Preview
+🔗 Click here to use the Calculator(https://ericbloodaxe17.github.io/icalc/)
 
-Press C to clear the display.
+📖 Usage
 
-🌐 Live Preview
-You can try the calculator live here:
-🔗 Live Demo()
+Use the on-screen buttons to perform calculations.
+
+Click C to clear and = to get results.
+
+🧑‍💻 Contribution
+Feel free to fork this repository and submit pull requests to improve features or UI.
+
