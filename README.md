@@ -31,7 +31,7 @@ calculator/
 
 
 🚀 Live Preview
-🔗 Click here to use the Calculator(https://ericbloodaxe17.github.io/icalc/)
+🔗 Click here to use the [Calculator](https://ericbloodaxe17.github.io/icalc/)
 
 📖 Usage
 
